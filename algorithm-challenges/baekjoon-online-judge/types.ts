@@ -35,6 +35,7 @@ export type Tag =
   | 'BFS'
   | 'Binary Search'
   | 'Branch and Bound'
+  | 'Coordinate Compression'
   | 'DFS'
   | 'Dijkstra\'s Algorithm'
   | 'Divide and Conquer'
@@ -43,7 +44,8 @@ export type Tag =
   | 'Longest Increasing Subsequence'
   | 'Mathematics'
   | 'Recursion'
-  | 'Simulation';
+  | 'Simulation'
+  | 'Sorting';
 
 export interface Challenge {
   id: number;
