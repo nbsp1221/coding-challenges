@@ -41,6 +41,7 @@ export type Tag =
   | 'Divide and Conquer'
   | 'Dynamic Programming'
   | 'Graph'
+  | 'Greedy Algorithm'
   | 'Longest Increasing Subsequence'
   | 'Mathematics'
   | 'Recursion'
