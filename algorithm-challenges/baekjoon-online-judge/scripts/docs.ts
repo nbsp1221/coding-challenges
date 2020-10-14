@@ -2,26 +2,24 @@ import fs from 'fs';
 import path from 'path';
 import { Challenge, ChallengeFile } from '../types';
 import challengeDatas from '../challenge-datas';
+import {
+  paths,
+  config,
+  createChallengeUrl,
+  createSourceCodeUrl
+} from '../config';
 
 interface LevelDocument {
   [key: string]: { [key: string]: Challenge[] };
 }
 
-const config = {
-  challengeUrl: 'https://www.acmicpc.net/problem/',
-  sourceCodeUrl: 'https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/'
-} as const;
-
-const rootPath = path.resolve(__dirname, '../');
-const challengesPath = path.resolve(rootPath, 'challenges');
-const levelPath = path.resolve(rootPath, 'level');
 const levelDocument: LevelDocument = {};
 
 function getChallengeFiles(): ChallengeFile[] {
   const challengeFiles: ChallengeFile[] = [];
 
-  fs.readdirSync(challengesPath).forEach((directoryName) => {
-    fs.readdirSync(path.resolve(challengesPath, directoryName)).forEach((fileName) => {
+  fs.readdirSync(paths.challenges).forEach((directoryName) => {
+    fs.readdirSync(path.resolve(paths.challenges, directoryName)).forEach((fileName) => {
       const splitted = fileName.split('.');
       challengeFiles.push({ id: parseInt(splitted[0], 10), extension: splitted[1] });
     });
@@ -55,15 +53,19 @@ function getLanguageName(extension: string): string {
   }
 }
 
-function saveLevelDocument(): void {
-  if (!fs.existsSync(levelPath)) {
-    fs.mkdirSync(levelPath);
+function saveLevelDocs(): void {
+  if (!fs.existsSync(paths.levelDocs)) {
+    fs.mkdirSync(paths.levelDocs);
   }
 
   Object.keys(levelDocument).forEach((mainLevel) => {
     const lines: string[] = [];
 
-    Object.keys(levelDocument[mainLevel]).forEach((subLevel) => {
+    config.levelDocsOrder.forEach((subLevel) => {
+      if (!(subLevel in levelDocument[mainLevel])) {
+        return;
+      }
+
       lines.push(`## ${mainLevel} ${subLevel}`);
 
       levelDocument[mainLevel][subLevel].forEach((challengeData) => {
@@ -73,12 +75,13 @@ function saveLevelDocument(): void {
         const tags = challengeData.tags;
         const languageName = getLanguageName(extension);
 
-        lines.push(`* [${title}](${config.challengeUrl}${id}) (${id}) - [${languageName}](${config.sourceCodeUrl}${Math.floor(id / 1000) * 1000}/${id}.${extension})`);
+        lines.push(`* [${title}](${createChallengeUrl(id)}) (${id}) - [${languageName}](${createSourceCodeUrl(id, extension)})`);
         lines.push(`  - ${tags.join(', ')}`);
       });
     });
 
-    fs.writeFileSync(path.resolve(levelPath, mainLevel.toLowerCase() + '.md'), lines.join('\n'), { encoding: 'utf8' });
+    const fileName = `${config.levelDocsPrefix + mainLevel.toUpperCase()}.md`;
+    fs.writeFileSync(path.resolve(paths.levelDocs, fileName), lines.join('\n'), { encoding: 'utf8' });
   });
 }
 
@@ -91,5 +94,5 @@ function saveLevelDocument(): void {
     updateLevelDocument({ ...challengeFile, ...challengeDatas[challengeFile.id] });
   });
 
-  saveLevelDocument();
+  saveLevelDocs();
 })();
