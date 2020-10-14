@@ -10,4 +10,5 @@
 
 아래 링크로 접속하시면 제가 푼 문제에 대한 방법이 간략히 설명되어 있으므로 열람 시 주의하시기 바랍니다.
 
+* [Bronze](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/LEVEL_BRONZE.md)
 * [Silver](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/LEVEL_SILVER.md)
