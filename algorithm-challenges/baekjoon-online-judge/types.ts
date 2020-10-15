@@ -44,9 +44,13 @@ export type Tag =
   | 'Greedy algorithm'
   | 'Longest increasing subsequence'
   | 'Mathematics'
+  | 'Priority queue'
+  | 'Queue'
   | 'Recursion'
   | 'Simulation'
-  | 'Sorting';
+  | 'Sorting'
+  | 'Stack'
+  | 'Tree';
 
 export interface Challenge {
   id: number;
