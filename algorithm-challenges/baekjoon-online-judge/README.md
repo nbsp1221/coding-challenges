@@ -12,3 +12,4 @@
 
 * [Bronze](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/LEVEL_BRONZE.md)
 * [Silver](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/LEVEL_SILVER.md)
+* [Gold](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/LEVEL_GOLD.md)
