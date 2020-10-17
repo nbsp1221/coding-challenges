@@ -1,4 +1,6 @@
 ## Silver III
+* [랜선 자르기](https://www.acmicpc.net/problem/1654) (1654) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1654.cpp)
+  - Binary search
 * [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) (1676) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1676.cpp)
   - Mathematics
 * [ATM](https://www.acmicpc.net/problem/11399) (11399) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11399.cpp)
@@ -9,7 +11,11 @@
 * [좌표 압축](https://www.acmicpc.net/problem/18870) (18870) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/18000/18870.cpp)
   - Coordinate compression, Sorting
 ## Silver I
+* [쿼드 트리](https://www.acmicpc.net/problem/1992) (1992) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1992.cpp)
+  - Divide and conquer, Recursion
 * [동전 0](https://www.acmicpc.net/problem/11047) (11047) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11047.cpp)
   - Greedy algorithm
+* [절댓값 힙](https://www.acmicpc.net/problem/11286) (11286) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11286.cpp)
+  - Priority queue
 * [경로 찾기](https://www.acmicpc.net/problem/11403) (11403) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11403.cpp)
   - DFS, Graph theory
