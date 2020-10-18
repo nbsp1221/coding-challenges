@@ -12,6 +12,8 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   11286: { title: '절댓값 힙', level: 'Silver I', tags: ['Priority queue'] },
   11399: { title: 'ATM', level: 'Silver III', tags: ['Greedy algorithm', 'Sorting'] },
   11403: { title: '경로 찾기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },
+  17219: { title: '비밀번호 찾기', level: 'Silver IV', tags: ['Hash table'] },
+  17626: { title: 'Four Squares', level: 'Silver V', tags: ['Dynamic programming'] },
   18870: { title: '좌표 압축', level: 'Silver II', tags: ['Coordinate compression', 'Sorting'] }
 };
 
