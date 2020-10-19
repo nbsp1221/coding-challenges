@@ -1,0 +1,8 @@
+SET @i := -1;
+SELECT
+    (@i := @i + 1) AS 'HOUR',
+    (SELECT COUNT(*) FROM ANIMAL_OUTS WHERE HOUR(DATETIME) = @i) AS 'COUNT'
+FROM
+    ANIMAL_OUTS
+LIMIT
+    24
