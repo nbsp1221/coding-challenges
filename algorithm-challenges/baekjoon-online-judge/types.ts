@@ -40,6 +40,7 @@ export type Tag =
   | 'DFS'
   | 'Dijkstra\'s algorithm'
   | 'Divide and conquer'
+  | 'Double-ended queue'
   | 'Dynamic programming'
   | 'Graph theory'
   | 'Greedy algorithm'
