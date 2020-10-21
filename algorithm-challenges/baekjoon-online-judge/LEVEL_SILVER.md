@@ -1,4 +1,6 @@
 ## Silver V
+* [줄 세우기](https://www.acmicpc.net/problem/11536) (11536) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11536.cpp)
+  - Implementation
 * [Four Squares](https://www.acmicpc.net/problem/17626) (17626) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/17000/17626.cpp)
   - Dynamic programming
 ## Silver IV
