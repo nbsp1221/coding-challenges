@@ -45,6 +45,7 @@ export type Tag =
   | 'Graph theory'
   | 'Greedy algorithm'
   | 'Hash table'
+  | 'Implementation'
   | 'Longest increasing subsequence'
   | 'Mathematics'
   | 'Priority queue'
