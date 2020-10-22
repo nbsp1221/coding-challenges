@@ -22,6 +22,8 @@
   - Coordinate compression, Sorting
 * [AC](https://www.acmicpc.net/problem/5430) (5430) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5430.cpp)
   - Double-ended queue
+* [IOIOI](https://www.acmicpc.net/problem/5525) (5525) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5525.cpp)
+  - Implementation
 ## Silver I
 * [쿼드 트리](https://www.acmicpc.net/problem/1992) (1992) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1992.cpp)
   - Divide and conquer, Recursion

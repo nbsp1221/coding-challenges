@@ -8,6 +8,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
   2010:  { title: '플러그', level: 'Bronze III', tags: ['Mathematics'] },
   5430:  { title: 'AC', level: 'Silver II', tags: ['Double-ended queue'] },
+  5525:  { title: 'IOIOI', level: 'Silver II', tags: ['Implementation'] },
   7662:  { title: '이중 우선순위 큐', level: 'Gold V', tags: ['Tree'] },
   9375:  { title: '패션왕 신해빈', level: 'Silver III', tags: ['Hash table'] },
   11047: { title: '동전 0', level: 'Silver I', tags: ['Greedy algorithm'] },
