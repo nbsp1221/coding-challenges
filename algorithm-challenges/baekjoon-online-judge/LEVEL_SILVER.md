@@ -25,6 +25,8 @@
 * [IOIOI](https://www.acmicpc.net/problem/5525) (5525) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5525.cpp)
   - Implementation
 ## Silver I
+* [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (1389) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1389.cpp)
+  - BFS, Graph theory
 * [쿼드 트리](https://www.acmicpc.net/problem/1992) (1992) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1992.cpp)
   - Divide and conquer, Recursion
 * [동전 0](https://www.acmicpc.net/problem/11047) (11047) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11047.cpp)
