@@ -35,3 +35,5 @@
   - Priority queue
 * [경로 찾기](https://www.acmicpc.net/problem/11403) (11403) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11403.cpp)
   - DFS, Graph theory
+* [카잉 달력](https://www.acmicpc.net/problem/6064) (6064) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/6000/6064.cpp)
+  - Mathematics
