@@ -11,6 +11,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   5430:  { title: 'AC', level: 'Silver II', tags: ['Double-ended queue'] },
   5525:  { title: 'IOIOI', level: 'Silver II', tags: ['Implementation'] },
   6064:  { title: '카잉 달력', level: 'Silver I', tags: ['Mathematics'] },
+  7569:  { title: '토마토', level: 'Silver I', tags: ['BFS'] },
   7662:  { title: '이중 우선순위 큐', level: 'Gold V', tags: ['Tree'] },
   9375:  { title: '패션왕 신해빈', level: 'Silver III', tags: ['Hash table'] },
   11047: { title: '동전 0', level: 'Silver I', tags: ['Greedy algorithm'] },
