@@ -39,3 +39,5 @@
   - Mathematics
 * [토마토](https://www.acmicpc.net/problem/7569) (7569) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7569.cpp)
   - BFS
+* [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) (9205) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9205.cpp)
+  - DFS, Graph theory
