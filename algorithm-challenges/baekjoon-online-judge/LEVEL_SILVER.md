@@ -24,6 +24,8 @@
   - Double-ended queue
 * [IOIOI](https://www.acmicpc.net/problem/5525) (5525) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5525.cpp)
   - Implementation
+* [스티커](https://www.acmicpc.net/problem/9465) (9465) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9465.cpp)
+  - Dynamic programming
 ## Silver I
 * [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (1389) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1389.cpp)
   - BFS, Graph theory
