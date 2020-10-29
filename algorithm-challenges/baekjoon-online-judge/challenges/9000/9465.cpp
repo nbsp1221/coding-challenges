@@ -11,7 +11,6 @@ void testCase()
 
     vector<vector<int>> stickers(2, vector<int>(n));
     vector<vector<int>> dp(2, vector<int>(n));
-    int maxScoreSum = 0;
 
     for (int i = 0; i < 2; i++) {
         for (int j = 0; j < n; j++) {
@@ -32,12 +31,7 @@ void testCase()
         }
     }
 
-    for (int i = 0; i < n; i++) {
-        maxScoreSum = max(maxScoreSum, dp[0][i]);
-        maxScoreSum = max(maxScoreSum, dp[1][i]);
-    }
-
-    cout << maxScoreSum << "\n";
+    cout << max(dp[0][n - 1], dp[1][n - 1]) << "\n";
 }
 
 int main()
