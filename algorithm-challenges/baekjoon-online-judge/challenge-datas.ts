@@ -6,6 +6,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1541:  { title: '잃어버린 괄호', level: 'Silver II', tags: ['Greedy algorithm'] },
   1654:  { title: '랜선 자르기', level: 'Silver III', tags: ['Binary search'] },
   1676:  { title: '팩토리얼 0의 개수', level: 'Silver III', tags: ['Mathematics'] },
+  1717:  { title: '집합의 표현', level: 'Gold IV', tags: ['Disjoint set'] },
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
   2010:  { title: '플러그', level: 'Bronze III', tags: ['Mathematics'] },
