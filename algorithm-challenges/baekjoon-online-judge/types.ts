@@ -39,6 +39,7 @@ export type Tag =
   | 'Coordinate compression'
   | 'DFS'
   | 'Dijkstra\'s algorithm'
+  | 'Disjoint set'
   | 'Divide and conquer'
   | 'Double-ended queue'
   | 'Dynamic programming'
