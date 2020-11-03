@@ -48,6 +48,8 @@ function getLanguageName(extension: string): string {
   switch (extension) {
     case 'cpp':
       return 'C++';
+    case 'py':
+      return 'Python';
     default:
       throw new Error(`${extension} is undefined extension.`);
   }
