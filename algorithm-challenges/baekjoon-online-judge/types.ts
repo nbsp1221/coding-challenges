@@ -45,6 +45,7 @@ export type Tag =
   | 'Dynamic programming'
   | 'Graph theory'
   | 'Greedy algorithm'
+  | 'Hash set'
   | 'Hash table'
   | 'Implementation'
   | 'Longest increasing subsequence'
