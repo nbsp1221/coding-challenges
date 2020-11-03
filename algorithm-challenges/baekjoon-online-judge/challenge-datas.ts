@@ -24,6 +24,8 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   11399: { title: 'ATM', level: 'Silver III', tags: ['Greedy algorithm', 'Sorting'] },
   11403: { title: '경로 찾기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },
   11536: { title: '줄 세우기', level: 'Silver V', tags: ['Implementation'] },
+  11816: { title: '8진수, 10진수, 16진수', level: 'Bronze I', tags: ['Implementation'] },
+  14425: { title: '문자열 집합', level: 'Silver III', tags: ['Hash set'] },
   17219: { title: '비밀번호 찾기', level: 'Silver IV', tags: ['Hash table'] },
   17626: { title: 'Four Squares', level: 'Silver V', tags: ['Dynamic programming'] },
   18870: { title: '좌표 압축', level: 'Silver II', tags: ['Coordinate compression', 'Sorting'] }

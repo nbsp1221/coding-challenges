@@ -13,6 +13,8 @@
   - Mathematics
 * [ATM](https://www.acmicpc.net/problem/11399) (11399) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11399.cpp)
   - Greedy algorithm, Sorting
+* [문자열 집합](https://www.acmicpc.net/problem/14425) (14425) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14425.cpp)
+  - Hash set
 * [패션왕 신해빈](https://www.acmicpc.net/problem/9375) (9375) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9375.cpp)
   - Hash table
 ## Silver II
