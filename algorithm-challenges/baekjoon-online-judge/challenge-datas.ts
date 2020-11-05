@@ -1,6 +1,7 @@
 import { ChallengeData } from './types';
 
 const challengeDatas: { [key: number]: ChallengeData } = {
+  1094:  { title: '막대기', level: 'Silver V', tags: ['Implementation'] },
   1107:  { title: '리모컨', level: 'Gold V', tags: ['Brute-force search'] },
   1389:  { title: '케빈 베이컨의 6단계 법칙', level: 'Silver I', tags: ['BFS', 'Graph theory'] },
   1476:  { title: '날짜 계산', level: 'Silver V', tags: ['Implementation'] },

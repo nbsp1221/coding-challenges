@@ -1,4 +1,6 @@
 ## Silver V
+* [막대기](https://www.acmicpc.net/problem/1094) (1094) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1094.cpp)
+  - Implementation
 * [날짜 계산](https://www.acmicpc.net/problem/1476) (1476) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1476.cpp)
   - Implementation
 * [줄 세우기](https://www.acmicpc.net/problem/11536) (11536) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11536.cpp)
