@@ -20,6 +20,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   6064:  { title: '카잉 달력', level: 'Silver I', tags: ['Mathematics'] },
   7569:  { title: '토마토', level: 'Silver I', tags: ['BFS'] },
   7662:  { title: '이중 우선순위 큐', level: 'Gold V', tags: ['Tree'] },
+  8320:  { title: '직사각형을 만드는 방법', level: 'Bronze III', tags: ['Mathematics'] },
   9205:  { title: '맥주 마시면서 걸어가기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },
   9375:  { title: '패션왕 신해빈', level: 'Silver III', tags: ['Hash table'] },
   9465:  { title: '스티커', level: 'Silver II', tags: ['Dynamic programming'] },
