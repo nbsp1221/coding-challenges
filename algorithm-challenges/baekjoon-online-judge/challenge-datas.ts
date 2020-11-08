@@ -24,6 +24,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   9205:  { title: '맥주 마시면서 걸어가기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },
   9375:  { title: '패션왕 신해빈', level: 'Silver III', tags: ['Hash table'] },
   9465:  { title: '스티커', level: 'Silver II', tags: ['Dynamic programming'] },
+  9663:  { title: 'N-Queen', level: 'Gold V', tags: ['Backtracking'] },
   10026: { title: '적록색약', level: 'Gold V', tags: ['DFS', 'Recursion'] },
   11047: { title: '동전 0', level: 'Silver I', tags: ['Greedy algorithm'] },
   11286: { title: '절댓값 힙', level: 'Silver I', tags: ['Priority queue'] },

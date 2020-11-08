@@ -7,6 +7,8 @@
   - Brute-force search
 * [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) (7662) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7662.cpp)
   - Tree
+* [N-Queen](https://www.acmicpc.net/problem/9663) (9663) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9663.cpp)
+  - Backtracking
 ## Gold IV
 * [집합의 표현](https://www.acmicpc.net/problem/1717) (1717) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1717.cpp)
   - Disjoint set
