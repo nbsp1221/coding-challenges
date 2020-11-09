@@ -12,3 +12,5 @@
 ## Gold IV
 * [집합의 표현](https://www.acmicpc.net/problem/1717) (1717) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1717.cpp)
   - Disjoint set
+* [스도쿠](https://www.acmicpc.net/problem/2580) (2580) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2580.cpp)
+  - Backtracking

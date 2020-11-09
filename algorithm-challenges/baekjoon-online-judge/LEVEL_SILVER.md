@@ -8,6 +8,8 @@
 * [Four Squares](https://www.acmicpc.net/problem/17626) (17626) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/17000/17626.cpp)
   - Dynamic programming
 ## Silver IV
+* [회전하는 큐](https://www.acmicpc.net/problem/1021) (1021) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1021.cpp)
+  - Double-ended queue
 * [비밀번호 찾기](https://www.acmicpc.net/problem/17219) (17219) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/17000/17219.cpp)
   - Hash table
 ## Silver III

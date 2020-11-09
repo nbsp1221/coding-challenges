@@ -1,6 +1,7 @@
 import { ChallengeData } from './types';
 
 const challengeDatas: { [key: number]: ChallengeData } = {
+  1021:  { title: '회전하는 큐', level: 'Silver IV', tags: ['Double-ended queue'] },
   1094:  { title: '막대기', level: 'Silver V', tags: ['Implementation'] },
   1107:  { title: '리모컨', level: 'Gold V', tags: ['Brute-force search'] },
   1389:  { title: '케빈 베이컨의 6단계 법칙', level: 'Silver I', tags: ['BFS', 'Graph theory'] },
@@ -12,6 +13,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
   2010:  { title: '플러그', level: 'Bronze III', tags: ['Mathematics'] },
+  2580:  { title: '스도쿠', level: 'Gold IV', tags: ['Backtracking'] },
   2935:  { title: '소음', level: 'Bronze III', tags: ['Implementation'] },
   5355:  { title: '화성 수학', level: 'Bronze II', tags: ['Implementation'] },
   5430:  { title: 'AC', level: 'Silver II', tags: ['Double-ended queue'] },
