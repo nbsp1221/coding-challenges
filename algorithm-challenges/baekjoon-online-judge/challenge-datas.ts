@@ -2,6 +2,7 @@ import { ChallengeData } from './types';
 
 const challengeDatas: { [key: number]: ChallengeData } = {
   1021:  { title: '회전하는 큐', level: 'Silver IV', tags: ['Double-ended queue'] },
+  1063:  { title: '킹', level: 'Silver V', tags: ['Simulation'] },
   1094:  { title: '막대기', level: 'Silver V', tags: ['Implementation'] },
   1107:  { title: '리모컨', level: 'Gold V', tags: ['Brute-force search'] },
   1292:  { title: '쉽게 푸는 문제', level: 'Silver IV', tags: ['Implementation'] },
@@ -10,6 +11,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1541:  { title: '잃어버린 괄호', level: 'Silver II', tags: ['Greedy algorithm'] },
   1654:  { title: '랜선 자르기', level: 'Silver III', tags: ['Binary search'] },
   1676:  { title: '팩토리얼 0의 개수', level: 'Silver III', tags: ['Mathematics'] },
+  1681:  { title: '줄 세우기', level: 'Bronze II', tags: ['Implementation'] },
   1717:  { title: '집합의 표현', level: 'Gold IV', tags: ['Disjoint set'] },
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
