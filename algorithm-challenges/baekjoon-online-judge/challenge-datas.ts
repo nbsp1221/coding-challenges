@@ -18,6 +18,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   2010:  { title: '플러그', level: 'Bronze III', tags: ['Mathematics'] },
   2217:  { title: '로프', level: 'Silver IV', tags: ['Greedy algorithm'] },
   2580:  { title: '스도쿠', level: 'Gold IV', tags: ['Backtracking'] },
+  2776:  { title: '암기왕', level: 'Silver III', tags: ['Hash set'] },
   2935:  { title: '소음', level: 'Bronze III', tags: ['Implementation'] },
   5355:  { title: '화성 수학', level: 'Bronze II', tags: ['Implementation'] },
   5430:  { title: 'AC', level: 'Silver II', tags: ['Double-ended queue'] },
