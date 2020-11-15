@@ -14,6 +14,8 @@
   - Implementation
 * [개표](https://www.acmicpc.net/problem/10102) (10102) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/10000/10102.py)
   - Implementation
+* [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059) (3059) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/3000/3059.cpp)
+  - Implementation
 * [화성 수학](https://www.acmicpc.net/problem/5355) (5355) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5355.py)
   - Implementation
 ## Bronze I
