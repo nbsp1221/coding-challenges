@@ -18,6 +18,8 @@
   - Implementation
 * [화성 수학](https://www.acmicpc.net/problem/5355) (5355) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5355.py)
   - Implementation
+* [그릇](https://www.acmicpc.net/problem/7567) (7567) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7567.cpp)
+  - Implementation
 ## Bronze I
 * [8진수, 10진수, 16진수](https://www.acmicpc.net/problem/11816) (11816) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11816.py)
   - Implementation
