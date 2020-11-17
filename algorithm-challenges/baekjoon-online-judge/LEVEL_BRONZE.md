@@ -9,6 +9,8 @@
   - Implementation
 * [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320) (8320) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/8000/8320.cpp)
   - Mathematics
+* [주사위](https://www.acmicpc.net/problem/9295) (9295) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9295.cpp)
+  - Implementation
 ## Bronze II
 * [줄 세우기](https://www.acmicpc.net/problem/1681) (1681) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1681.cpp)
   - Implementation
