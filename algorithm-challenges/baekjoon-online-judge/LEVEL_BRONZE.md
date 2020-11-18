@@ -5,6 +5,8 @@
   - Mathematics
 * [소음](https://www.acmicpc.net/problem/2935) (2935) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2935.py)
   - Implementation
+* [나는 요리사다](https://www.acmicpc.net/problem/2953) (2953) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2953.cpp)
+  - Implementation
 * [상근이의 친구들](https://www.acmicpc.net/problem/5717) (5717) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5717.cpp)
   - Implementation
 * [직사각형을 만드는 방법](https://www.acmicpc.net/problem/8320) (8320) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/8000/8320.cpp)
