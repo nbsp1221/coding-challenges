@@ -14,6 +14,8 @@
   - Double-ended queue
 * [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (1292) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1292.cpp)
   - Implementation
+* [퇴사](https://www.acmicpc.net/problem/14501) (14501) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14501.cpp)
+  - Dynamic programming
 * [비밀번호 찾기](https://www.acmicpc.net/problem/17219) (17219) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/17000/17219.cpp)
   - Hash table
 * [로프](https://www.acmicpc.net/problem/2217) (2217) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2217.cpp)
