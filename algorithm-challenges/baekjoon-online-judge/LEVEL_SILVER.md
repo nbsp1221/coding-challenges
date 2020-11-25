@@ -12,6 +12,8 @@
 ## Silver IV
 * [회전하는 큐](https://www.acmicpc.net/problem/1021) (1021) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1021.cpp)
   - Double-ended queue
+* [기타줄](https://www.acmicpc.net/problem/1049) (1049) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1049.cpp)
+  - Implementation
 * [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (1292) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1292.cpp)
   - Implementation
 * [퇴사](https://www.acmicpc.net/problem/14501) (14501) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14501.cpp)

@@ -2,6 +2,7 @@ import { ChallengeData } from './types';
 
 const challengeDatas: { [key: number]: ChallengeData } = {
   1021:  { title: '회전하는 큐', level: 'Silver IV', tags: ['Double-ended queue'] },
+  1049:  { title: '기타줄', level: 'Silver IV', tags: ['Implementation'] },
   1063:  { title: '킹', level: 'Silver V', tags: ['Simulation'] },
   1094:  { title: '막대기', level: 'Silver V', tags: ['Implementation'] },
   1107:  { title: '리모컨', level: 'Gold V', tags: ['Brute-force search'] },
