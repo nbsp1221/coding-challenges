@@ -37,6 +37,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   9295:  { title: '주사위', level: 'Bronze III', tags: ['Implementation'] },
   9375:  { title: '패션왕 신해빈', level: 'Silver III', tags: ['Hash table'] },
   9465:  { title: '스티커', level: 'Silver II', tags: ['Dynamic programming'] },
+  9536:  { title: '여우는 어떻게 울지?', level: 'Silver V', tags: ['Implementation'] },
   9663:  { title: 'N-Queen', level: 'Gold V', tags: ['Backtracking'] },
   10026: { title: '적록색약', level: 'Gold V', tags: ['DFS', 'Recursion'] },
   10102: { title: '개표', level: 'Bronze II', tags: ['Implementation'] },
