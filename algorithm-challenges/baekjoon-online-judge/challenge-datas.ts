@@ -17,6 +17,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
   2010:  { title: '플러그', level: 'Bronze III', tags: ['Mathematics'] },
+  2193:  { title: '이친수', level: 'Silver III', tags: ['Dynamic programming'] },
   2217:  { title: '로프', level: 'Silver IV', tags: ['Greedy algorithm'] },
   2580:  { title: '스도쿠', level: 'Gold IV', tags: ['Backtracking'] },
   2740:  { title: '행렬 곱셈', level: 'Bronze I', tags: ['Mathematics'] },
