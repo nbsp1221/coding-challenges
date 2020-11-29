@@ -43,6 +43,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   10026: { title: '적록색약', level: 'Gold V', tags: ['DFS', 'Recursion'] },
   10102: { title: '개표', level: 'Bronze II', tags: ['Implementation'] },
   11047: { title: '동전 0', level: 'Silver I', tags: ['Greedy algorithm'] },
+  11057: { title: '오르막 수', level: 'Silver I', tags: ['Dynamic programming'] },
   11286: { title: '절댓값 힙', level: 'Silver I', tags: ['Priority queue'] },
   11399: { title: 'ATM', level: 'Silver III', tags: ['Greedy algorithm', 'Sorting'] },
   11403: { title: '경로 찾기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },

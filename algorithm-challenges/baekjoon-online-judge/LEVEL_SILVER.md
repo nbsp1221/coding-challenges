@@ -59,6 +59,8 @@
   - Divide and conquer, Recursion
 * [동전 0](https://www.acmicpc.net/problem/11047) (11047) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11047.cpp)
   - Greedy algorithm
+* [오르막 수](https://www.acmicpc.net/problem/11057) (11057) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11057.cpp)
+  - Dynamic programming
 * [절댓값 힙](https://www.acmicpc.net/problem/11286) (11286) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11286.cpp)
   - Priority queue
 * [경로 찾기](https://www.acmicpc.net/problem/11403) (11403) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11403.cpp)
