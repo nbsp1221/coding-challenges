@@ -11,6 +11,8 @@
   - Dynamic programming
 * [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) (9536) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9536.py)
   - Implementation
+* [돌 게임](https://www.acmicpc.net/problem/9655) (9655) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9655.cpp)
+  - Dynamic programming
 ## Silver IV
 * [회전하는 큐](https://www.acmicpc.net/problem/1021) (1021) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1021.cpp)
   - Double-ended queue
@@ -24,6 +26,8 @@
   - Hash table
 * [로프](https://www.acmicpc.net/problem/2217) (2217) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2217.cpp)
   - Greedy algorithm
+* [돌 게임 2](https://www.acmicpc.net/problem/9656) (9656) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9656.cpp)
+  - Dynamic programming
 ## Silver III
 * [랜선 자르기](https://www.acmicpc.net/problem/1654) (1654) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1654.cpp)
   - Binary search
@@ -39,6 +43,8 @@
   - Hash set
 * [패션왕 신해빈](https://www.acmicpc.net/problem/9375) (9375) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9375.cpp)
   - Hash table
+* [돌 게임 3](https://www.acmicpc.net/problem/9657) (9657) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9657.cpp)
+  - Dynamic programming
 ## Silver II
 * [잃어버린 괄호](https://www.acmicpc.net/problem/1541) (1541) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1541.cpp)
   - Greedy algorithm
@@ -71,3 +77,5 @@
   - BFS
 * [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) (9205) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9205.cpp)
   - DFS, Graph theory
+* [돌 게임 4](https://www.acmicpc.net/problem/9658) (9658) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9658.cpp)
+  - Dynamic programming
