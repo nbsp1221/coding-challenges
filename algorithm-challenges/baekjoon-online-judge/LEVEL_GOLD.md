@@ -7,6 +7,10 @@
   - Brute-force search
 * [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) (7662) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7662.cpp)
   - Tree
+* [돌 게임 5](https://www.acmicpc.net/problem/9659) (9659) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9659.cpp)
+  - Game theory
+* [돌 게임 6](https://www.acmicpc.net/problem/9660) (9660) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9660.cpp)
+  - Game theory
 * [N-Queen](https://www.acmicpc.net/problem/9663) (9663) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9663.cpp)
   - Backtracking
 ## Gold IV
@@ -14,3 +18,6 @@
   - Disjoint set
 * [스도쿠](https://www.acmicpc.net/problem/2580) (2580) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2580.cpp)
   - Backtracking
+## Gold II
+* [돌 게임 7](https://www.acmicpc.net/problem/9661) (9661) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9661.cpp)
+  - Game theory, Mathematics
