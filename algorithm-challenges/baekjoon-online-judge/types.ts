@@ -43,6 +43,7 @@ export type Tag =
   | 'Divide and conquer'
   | 'Double-ended queue'
   | 'Dynamic programming'
+  | 'Game theory'
   | 'Graph theory'
   | 'Greedy algorithm'
   | 'Hash set'
