@@ -33,6 +33,8 @@
   - Binary search
 * [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) (1676) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1676.cpp)
   - Mathematics
+* [제곱수의 합](https://www.acmicpc.net/problem/1699) (1699) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1699.cpp)
+  - Dynamic programming, Mathematics
 * [ATM](https://www.acmicpc.net/problem/11399) (11399) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11399.cpp)
   - Greedy algorithm, Sorting
 * [문자열 집합](https://www.acmicpc.net/problem/14425) (14425) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14425.cpp)

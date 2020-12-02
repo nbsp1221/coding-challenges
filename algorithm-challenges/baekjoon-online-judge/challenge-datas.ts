@@ -13,6 +13,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1654:  { title: '랜선 자르기', level: 'Silver III', tags: ['Binary search'] },
   1676:  { title: '팩토리얼 0의 개수', level: 'Silver III', tags: ['Mathematics'] },
   1681:  { title: '줄 세우기', level: 'Bronze II', tags: ['Implementation'] },
+  1699:  { title: '제곱수의 합', level: 'Silver III', tags: ['Dynamic programming', 'Mathematics'] },
   1717:  { title: '집합의 표현', level: 'Gold IV', tags: ['Disjoint set'] },
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
