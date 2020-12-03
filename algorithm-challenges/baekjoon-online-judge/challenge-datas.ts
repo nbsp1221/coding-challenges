@@ -35,6 +35,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   7569:  { title: '토마토', level: 'Silver I', tags: ['BFS'] },
   7662:  { title: '이중 우선순위 큐', level: 'Gold V', tags: ['Tree'] },
   8320:  { title: '직사각형을 만드는 방법', level: 'Bronze III', tags: ['Mathematics'] },
+  9019:  { title: 'DSLR', level: 'Gold V', tags: ['BFS'] },
   9205:  { title: '맥주 마시면서 걸어가기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },
   9295:  { title: '주사위', level: 'Bronze III', tags: ['Implementation'] },
   9375:  { title: '패션왕 신해빈', level: 'Silver III', tags: ['Hash table'] },
