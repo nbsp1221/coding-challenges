@@ -73,6 +73,8 @@
   - Priority queue
 * [경로 찾기](https://www.acmicpc.net/problem/11403) (11403) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11403.cpp)
   - DFS, Graph theory
+* [안전 영역](https://www.acmicpc.net/problem/2468) (2468) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2468.cpp)
+  - Brute-force search, DFS
 * [카잉 달력](https://www.acmicpc.net/problem/6064) (6064) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/6000/6064.cpp)
   - Mathematics
 * [토마토](https://www.acmicpc.net/problem/7569) (7569) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7569.cpp)
