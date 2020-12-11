@@ -50,6 +50,8 @@
 ## Silver II
 * [잃어버린 괄호](https://www.acmicpc.net/problem/1541) (1541) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1541.cpp)
   - Greedy algorithm
+* [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) (11055) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11055.cpp)
+  - Dynamic programming
 * [퇴사 2](https://www.acmicpc.net/problem/15486) (15486) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/15000/15486.cpp)
   - Dynamic programming
 * [좌표 압축](https://www.acmicpc.net/problem/18870) (18870) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/18000/18870.cpp)
