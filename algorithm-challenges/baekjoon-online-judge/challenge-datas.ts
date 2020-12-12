@@ -33,6 +33,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   5525:  { title: 'IOIOI', level: 'Silver II', tags: ['Implementation'] },
   5717:  { title: '상근이의 친구들', level: 'Bronze III', tags: ['Implementation'] },
   6064:  { title: '카잉 달력', level: 'Silver I', tags: ['Mathematics'] },
+  6549:  { title: '히스토그램에서 가장 큰 직사각형', level: 'Platinum V', tags: ['Stack'] },
   7567:  { title: '그릇', level: 'Bronze II', tags: ['Implementation'] },
   7569:  { title: '토마토', level: 'Silver I', tags: ['BFS'] },
   7662:  { title: '이중 우선순위 큐', level: 'Gold V', tags: ['Tree'] },
