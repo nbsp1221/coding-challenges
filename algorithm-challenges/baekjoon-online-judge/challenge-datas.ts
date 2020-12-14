@@ -54,6 +54,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   9663:  { title: 'N-Queen', level: 'Gold V', tags: ['Backtracking'] },
   10026: { title: '적록색약', level: 'Gold V', tags: ['DFS', 'Recursion'] },
   10102: { title: '개표', level: 'Bronze II', tags: ['Implementation'] },
+  10610: { title: '30', level: 'Silver V', tags: ['Mathematics', 'Sorting'] },
   11047: { title: '동전 0', level: 'Silver I', tags: ['Greedy algorithm'] },
   11055: { title: '가장 큰 증가 부분 수열', level: 'Silver II', tags: ['Dynamic programming'] },
   11057: { title: '오르막 수', level: 'Silver I', tags: ['Dynamic programming'] },
