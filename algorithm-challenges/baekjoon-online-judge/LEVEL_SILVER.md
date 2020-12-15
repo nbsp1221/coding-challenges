@@ -62,6 +62,8 @@
   - Coordinate compression, Sorting
 * [타일 채우기](https://www.acmicpc.net/problem/2133) (2133) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2133.cpp)
   - Dynamic programming
+* [괄호의 값](https://www.acmicpc.net/problem/2504) (2504) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2504.cpp)
+  - Stack
 * [AC](https://www.acmicpc.net/problem/5430) (5430) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5430.cpp)
   - Double-ended queue
 * [IOIOI](https://www.acmicpc.net/problem/5525) (5525) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/5000/5525.cpp)
