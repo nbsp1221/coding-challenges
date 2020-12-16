@@ -31,6 +31,8 @@
 * [돌 게임 2](https://www.acmicpc.net/problem/9656) (9656) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9656.cpp)
   - Dynamic programming
 ## Silver III
+* [에디터](https://www.acmicpc.net/problem/1406) (1406) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1406.cpp)
+  - Double-ended queue
 * [랜선 자르기](https://www.acmicpc.net/problem/1654) (1654) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1654.cpp)
   - Binary search
 * [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) (1676) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1676.cpp)

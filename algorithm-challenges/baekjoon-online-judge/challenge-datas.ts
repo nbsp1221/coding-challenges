@@ -8,6 +8,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1107:  { title: '리모컨', level: 'Gold V', tags: ['Brute-force search'] },
   1292:  { title: '쉽게 푸는 문제', level: 'Silver IV', tags: ['Implementation'] },
   1389:  { title: '케빈 베이컨의 6단계 법칙', level: 'Silver I', tags: ['BFS', 'Graph theory'] },
+  1406:  { title: '에디터', level: 'Silver III', tags: ['Double-ended queue'] },
   1476:  { title: '날짜 계산', level: 'Silver V', tags: ['Implementation'] },
   1541:  { title: '잃어버린 괄호', level: 'Silver II', tags: ['Greedy algorithm'] },
   1654:  { title: '랜선 자르기', level: 'Silver III', tags: ['Binary search'] },
