@@ -18,6 +18,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1717:  { title: '집합의 표현', level: 'Gold IV', tags: ['Disjoint set'] },
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
+  2004:  { title: '조합 0의 개수', level: 'Silver II', tags: ['Mathematics'] },
   2010:  { title: '플러그', level: 'Bronze III', tags: ['Mathematics'] },
   2133:  { title: '타일 채우기', level: 'Silver II', tags: ['Dynamic programming'] },
   2193:  { title: '이친수', level: 'Silver III', tags: ['Dynamic programming'] },

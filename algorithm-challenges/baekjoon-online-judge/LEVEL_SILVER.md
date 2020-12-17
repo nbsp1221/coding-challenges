@@ -62,6 +62,8 @@
   - Dynamic programming
 * [좌표 압축](https://www.acmicpc.net/problem/18870) (18870) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/18000/18870.cpp)
   - Coordinate compression, Sorting
+* [조합 0의 개수](https://www.acmicpc.net/problem/2004) (2004) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2004.cpp)
+  - Mathematics
 * [타일 채우기](https://www.acmicpc.net/problem/2133) (2133) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2133.cpp)
   - Dynamic programming
 * [괄호의 값](https://www.acmicpc.net/problem/2504) (2504) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2504.cpp)
