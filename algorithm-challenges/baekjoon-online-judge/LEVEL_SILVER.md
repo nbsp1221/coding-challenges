@@ -91,6 +91,8 @@
   - Brute-force search, DFS
 * [카잉 달력](https://www.acmicpc.net/problem/6064) (6064) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/6000/6064.cpp)
   - Mathematics
+* [골드바흐의 추측](https://www.acmicpc.net/problem/6588) (6588) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/6000/6588.cpp)
+  - Mathematics
 * [토마토](https://www.acmicpc.net/problem/7569) (7569) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7569.cpp)
   - BFS
 * [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) (9205) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9205.cpp)
