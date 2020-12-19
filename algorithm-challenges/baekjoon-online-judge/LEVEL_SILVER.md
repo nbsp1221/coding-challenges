@@ -60,6 +60,8 @@
   - Dynamic programming
 * [퇴사 2](https://www.acmicpc.net/problem/15486) (15486) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/15000/15486.cpp)
   - Dynamic programming
+* [K번째 소수](https://www.acmicpc.net/problem/15965) (15965) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/15000/15965.cpp)
+  - Mathematics
 * [좌표 압축](https://www.acmicpc.net/problem/18870) (18870) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/18000/18870.cpp)
   - Coordinate compression, Sorting
 * [조합 0의 개수](https://www.acmicpc.net/problem/2004) (2004) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2004.cpp)
