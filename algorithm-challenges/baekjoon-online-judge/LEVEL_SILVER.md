@@ -28,6 +28,8 @@
   - Hash table
 * [로프](https://www.acmicpc.net/problem/2217) (2217) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2217.cpp)
   - Greedy algorithm
+* [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) (2960) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2960.cpp)
+  - Mathematics
 * [돌 게임 2](https://www.acmicpc.net/problem/9656) (9656) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9656.cpp)
   - Dynamic programming
 ## Silver III
