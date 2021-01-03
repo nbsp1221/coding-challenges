@@ -79,6 +79,8 @@
 * [스티커](https://www.acmicpc.net/problem/9465) (9465) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9465.cpp)
   - Dynamic programming
 ## Silver I
+* [Z](https://www.acmicpc.net/problem/1074) (1074) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1074.cpp)
+  - Divide and conquer
 * [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) (1389) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1389.cpp)
   - BFS, Graph theory
 * [쿼드 트리](https://www.acmicpc.net/problem/1992) (1992) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1992.cpp)
