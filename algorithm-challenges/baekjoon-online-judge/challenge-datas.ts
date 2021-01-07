@@ -25,6 +25,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   2193:  { title: '이친수', level: 'Silver III', tags: ['Dynamic programming'] },
   2217:  { title: '로프', level: 'Silver IV', tags: ['Greedy algorithm'] },
   2468:  { title: '안전 영역', level: 'Silver I', tags: ['Brute-force search', 'DFS'] },
+  2503:  { title: '숫자 야구', level: 'Silver V', tags: ['Brute-force search'] },
   2504:  { title: '괄호의 값', level: 'Silver II', tags: ['Stack'] },
   2580:  { title: '스도쿠', level: 'Gold IV', tags: ['Backtracking'] },
   2740:  { title: '행렬 곱셈', level: 'Bronze I', tags: ['Mathematics'] },

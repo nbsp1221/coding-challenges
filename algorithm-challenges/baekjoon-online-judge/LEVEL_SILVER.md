@@ -11,6 +11,8 @@
   - Implementation
 * [Four Squares](https://www.acmicpc.net/problem/17626) (17626) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/17000/17626.cpp)
   - Dynamic programming
+* [숫자 야구](https://www.acmicpc.net/problem/2503) (2503) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2503.cpp)
+  - Brute-force search
 * [여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536) (9536) - [Python](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9536.py)
   - Implementation
 * [돌 게임](https://www.acmicpc.net/problem/9655) (9655) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9655.cpp)
