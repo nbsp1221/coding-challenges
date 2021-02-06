@@ -56,6 +56,8 @@
 * [돌 게임 3](https://www.acmicpc.net/problem/9657) (9657) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9657.cpp)
   - Dynamic programming
 ## Silver II
+* [유기농 배추](https://www.acmicpc.net/problem/1012) (1012) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1012.cpp)
+  - BFS
 * [안녕](https://www.acmicpc.net/problem/1535) (1535) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1535.cpp)
   - Brute-force search
 * [잃어버린 괄호](https://www.acmicpc.net/problem/1541) (1541) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1541.cpp)

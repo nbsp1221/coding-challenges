@@ -1,6 +1,7 @@
 import { ChallengeData } from './types';
 
 const challengeDatas: { [key: number]: ChallengeData } = {
+  1012:  { title: '유기농 배추', level: 'Silver II', tags: ['BFS'] },
   1021:  { title: '회전하는 큐', level: 'Silver IV', tags: ['Double-ended queue'] },
   1049:  { title: '기타줄', level: 'Silver IV', tags: ['Implementation'] },
   1063:  { title: '킹', level: 'Silver V', tags: ['Simulation'] },
