@@ -47,6 +47,8 @@
   - Greedy algorithm, Sorting
 * [문자열 집합](https://www.acmicpc.net/problem/14425) (14425) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14425.cpp)
   - Hash set
+* [N과 M (7)](https://www.acmicpc.net/problem/15656) (15656) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/15000/15656.cpp)
+  - Backtracking
 * [이친수](https://www.acmicpc.net/problem/2193) (2193) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2193.cpp)
   - Dynamic programming
 * [암기왕](https://www.acmicpc.net/problem/2776) (2776) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2776.cpp)

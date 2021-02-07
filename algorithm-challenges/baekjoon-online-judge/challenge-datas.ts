@@ -77,6 +77,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   14500: { title: '테트로미노', level: 'Gold V', tags: ['Brute-force search'] },
   14501: { title: '퇴사', level: 'Silver IV', tags: ['Dynamic programming'] },
   15486: { title: '퇴사 2', level: 'Silver II', tags: ['Dynamic programming'] },
+  15656: { title: 'N과 M (7)', level: 'Silver III', tags: ['Backtracking'] },
   15965: { title: 'K번째 소수', level: 'Silver II', tags: ['Mathematics'] },
   16953: { title: 'A → B', level: 'Silver I', tags: ['BFS'] },
   17219: { title: '비밀번호 찾기', level: 'Silver IV', tags: ['Hash table'] },
