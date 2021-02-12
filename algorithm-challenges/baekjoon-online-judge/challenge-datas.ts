@@ -29,6 +29,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   2468:  { title: '안전 영역', level: 'Silver I', tags: ['Brute-force search', 'DFS'] },
   2503:  { title: '숫자 야구', level: 'Silver V', tags: ['Brute-force search'] },
   2504:  { title: '괄호의 값', level: 'Silver II', tags: ['Stack'] },
+  2563:  { title: '색종이', level: 'Silver V', tags: ['Implementation'] },
   2580:  { title: '스도쿠', level: 'Gold IV', tags: ['Backtracking'] },
   2740:  { title: '행렬 곱셈', level: 'Bronze I', tags: ['Mathematics'] },
   2776:  { title: '암기왕', level: 'Silver III', tags: ['Hash set'] },
