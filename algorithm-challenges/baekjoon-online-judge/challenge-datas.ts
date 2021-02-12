@@ -72,6 +72,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   11403: { title: '경로 찾기', level: 'Silver I', tags: ['DFS', 'Graph theory'] },
   11536: { title: '줄 세우기', level: 'Silver V', tags: ['Implementation'] },
   11722: { title: '가장 긴 감소하는 부분 수열', level: 'Silver II', tags: ['Dynamic programming'] },
+  11725: { title: '트리의 부모 찾기', level: 'Silver II', tags: ['Graph theory', 'Tree', 'DFS'] },
   11816: { title: '8진수, 10진수, 16진수', level: 'Bronze I', tags: ['Implementation'] },
   14425: { title: '문자열 집합', level: 'Silver III', tags: ['Hash set'] },
   14500: { title: '테트로미노', level: 'Gold V', tags: ['Brute-force search'] },

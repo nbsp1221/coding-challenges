@@ -68,6 +68,8 @@
   - Dynamic programming
 * [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) (11722) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11722.cpp)
   - Dynamic programming
+* [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) (11725) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11725.cpp)
+  - Graph theory, Tree, DFS
 * [퇴사 2](https://www.acmicpc.net/problem/15486) (15486) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/15000/15486.cpp)
   - Dynamic programming
 * [K번째 소수](https://www.acmicpc.net/problem/15965) (15965) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/15000/15965.cpp)
