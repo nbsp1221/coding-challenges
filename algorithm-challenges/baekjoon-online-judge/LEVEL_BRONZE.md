@@ -29,3 +29,5 @@
   - Implementation
 * [행렬 곱셈](https://www.acmicpc.net/problem/2740) (2740) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2740.cpp)
   - Mathematics
+* [The Trip](https://www.acmicpc.net/problem/4411) (4411) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/4000/4411.cpp)
+  - Mathematics
