@@ -14,6 +14,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1476:  { title: '날짜 계산', level: 'Silver V', tags: ['Implementation'] },
   1535:  { title: '안녕', level: 'Silver II', tags: ['Brute-force search'] },
   1541:  { title: '잃어버린 괄호', level: 'Silver II', tags: ['Greedy algorithm'] },
+  1622:  { title: '공통 순열', level: 'Silver V', tags: ['Hash table'] },
   1654:  { title: '랜선 자르기', level: 'Silver III', tags: ['Binary search'] },
   1676:  { title: '팩토리얼 0의 개수', level: 'Silver III', tags: ['Mathematics'] },
   1681:  { title: '줄 세우기', level: 'Bronze II', tags: ['Implementation'] },

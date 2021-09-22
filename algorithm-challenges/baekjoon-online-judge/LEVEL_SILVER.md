@@ -5,6 +5,8 @@
   - Implementation
 * [날짜 계산](https://www.acmicpc.net/problem/1476) (1476) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1476.cpp)
   - Implementation
+* [공통 순열](https://www.acmicpc.net/problem/1622) (1622) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/1000/1622.cpp)
+  - Hash table
 * [30](https://www.acmicpc.net/problem/10610) (10610) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/10000/10610.cpp)
   - Mathematics, Sorting
 * [줄 세우기](https://www.acmicpc.net/problem/11536) (11536) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11536.cpp)
