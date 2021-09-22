@@ -5,6 +5,8 @@
   - DFS, Recursion
 * [테트로미노](https://www.acmicpc.net/problem/14500) (14500) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14500.cpp)
   - Brute-force search
+* [Crypt Kicker II](https://www.acmicpc.net/problem/4422) (4422) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/4000/4422.cpp)
+  - Implementation
 * [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) (7662) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/7000/7662.cpp)
   - Tree
 * [DSLR](https://www.acmicpc.net/problem/9019) (9019) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9019.cpp)

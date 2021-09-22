@@ -38,6 +38,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   2960:  { title: '에라토스테네스의 체', level: 'Silver IV', tags: ['Mathematics'] },
   3059:  { title: '등장하지 않는 문자의 합', level: 'Bronze II', tags: ['Implementation'] },
   4411:  { title: 'The Trip', level: 'Bronze I', tags: ['Mathematics'] },
+  4422:  { title: 'Crypt Kicker II', level: 'Gold V', tags: ['Implementation'] },
   5355:  { title: '화성 수학', level: 'Bronze II', tags: ['Implementation'] },
   5430:  { title: 'AC', level: 'Silver II', tags: ['Double-ended queue'] },
   5525:  { title: 'IOIOI', level: 'Silver II', tags: ['Implementation'] },
