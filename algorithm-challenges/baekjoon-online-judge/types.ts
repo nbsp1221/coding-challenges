@@ -49,7 +49,7 @@ export type Tag =
   | 'Hash set'
   | 'Hash table'
   | 'Implementation'
-  | 'Knuth–Morris–Pratt',
+  | 'Knuth–Morris–Pratt'
   | 'Longest increasing subsequence'
   | 'Mathematics'
   | 'Priority queue'
