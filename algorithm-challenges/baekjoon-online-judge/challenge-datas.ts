@@ -20,6 +20,7 @@ const challengeDatas: { [key: number]: ChallengeData } = {
   1681:  { title: '줄 세우기', level: 'Bronze II', tags: ['Implementation'] },
   1699:  { title: '제곱수의 합', level: 'Silver III', tags: ['Dynamic programming', 'Mathematics'] },
   1717:  { title: '집합의 표현', level: 'Gold IV', tags: ['Disjoint set'] },
+  1786:  { title: '찾기', level: 'Platinum V', tags: ['Knuth–Morris–Pratt'] },
   1964:  { title: '오각형, 오각형, 오각형…', level: 'Bronze III', tags: ['Mathematics'] },
   1992:  { title: '쿼드 트리', level: 'Silver I', tags: ['Divide and conquer', 'Recursion'] },
   2004:  { title: '조합 0의 개수', level: 'Silver II', tags: ['Mathematics'] },
