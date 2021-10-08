@@ -109,6 +109,8 @@
   - Priority queue
 * [경로 찾기](https://www.acmicpc.net/problem/11403) (11403) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/11000/11403.cpp)
   - DFS, Graph theory
+* [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) (16928) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/16000/16928.cpp)
+  - BFS
 * [A → B](https://www.acmicpc.net/problem/16953) (16953) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/16000/16953.cpp)
   - BFS
 * [안전 영역](https://www.acmicpc.net/problem/2468) (2468) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2468.cpp)
