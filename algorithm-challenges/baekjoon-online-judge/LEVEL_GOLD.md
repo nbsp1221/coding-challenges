@@ -23,5 +23,7 @@
 * [스도쿠](https://www.acmicpc.net/problem/2580) (2580) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/2000/2580.cpp)
   - Backtracking
 ## Gold II
+* [구두 수선공](https://www.acmicpc.net/problem/14908) (14908) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/14000/14908.cpp)
+  - Greedy algorithm, Sorting
 * [돌 게임 7](https://www.acmicpc.net/problem/9661) (9661) - [C++](https://github.com/nbsp1221/algorithm/blob/master/algorithm-challenges/baekjoon-online-judge/challenges/9000/9661.cpp)
   - Game theory, Mathematics
