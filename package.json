@@ -1,15 +1,17 @@
 {
-  "name": "algorithm",
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
   "private": true,
-  "scripts": {
-    "baekjoon-online-judge:docs": "ts-node algorithm-challenges/baekjoon-online-judge/scripts/docs.ts"
-  },
+  "repository": "https://github.com/nbsp1221/coding-challenges.git",
+  "author": "nbsp1221",
+  "license": "MIT",
   "devDependencies": {
-    "@types/node": "^14.14.6",
-    "@typescript-eslint/eslint-plugin": "^4.6.0",
-    "@typescript-eslint/parser": "^4.6.0",
-    "eslint": "^7.12.1",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.5"
+    "@typescript-eslint/eslint-plugin": "5.7.0",
+    "@typescript-eslint/parser": "5.7.0",
+    "eslint": "8.5.0",
+    "eslint-config-retn0": "1.0.3",
+    "ts-node": "10.4.0",
+    "typescript": "4.5.4"
   }
 }
