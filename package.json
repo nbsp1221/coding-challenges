@@ -11,9 +11,9 @@
   },
   "devDependencies": {
     "@types/selenium-webdriver": "4.0.16",
-    "@typescript-eslint/eslint-plugin": "5.7.0",
-    "@typescript-eslint/parser": "5.7.0",
-    "eslint": "8.5.0",
+    "@typescript-eslint/eslint-plugin": "5.8.1",
+    "@typescript-eslint/parser": "5.8.1",
+    "eslint": "8.6.0",
     "eslint-config-retn0": "1.0.3",
     "ts-node": "10.4.0",
     "typescript": "4.5.4"
